@@ -1,5 +1,5 @@
 # Neural-Style-Tramsfer-Decorative-Pattern-Synthesis
-Research base on A [Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576).
+Research base on [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576).
 
 ## Credit
 [leongatys/PytorchNeuralStyleTransfer](https://github.com/leongatys/PytorchNeuralStyleTransfer)
