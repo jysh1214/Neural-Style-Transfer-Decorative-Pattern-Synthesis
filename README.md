@@ -7,7 +7,7 @@ python3 neural_style_transfer.py img/input.jpeg img/style.jpeg result
 ```
 
 ## Result
-![GitHub show](./img/show.PNG)
+![GitHub show](./img/show.png)
 
 ## Reference
 [Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
